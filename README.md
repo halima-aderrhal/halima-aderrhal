@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halima ADER'RHAL</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=halima-aderrhal" alt="halima-aderrhal's trophies" />
-  </a>
-</p>
 
 
 
@@ -29,13 +24,4 @@
 </p>
 
 
-<br><br>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=halima-aderrha&theme=radical" alt="GitHub Streak" /></a>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halima-aderrhal&show_icons=true&locale=en" alt="halima-aderrhal's GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halima-aderrhal&" alt="halima-aderrhal's GitHub streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halima-aderrha&theme=highcontrast&mode=weekly&card_width=600)](https://git.io/streak-stats)
