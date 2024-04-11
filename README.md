@@ -32,12 +32,6 @@
   <!-- Ajoutez d'autres icônes ici -->
 </p>
 
-<h3>Support:</h3>
-<p>
-  <a href="https://ko-fi.com/ko-fi">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi" />
-  </a>
-</p>
 
 <br><br>
 
