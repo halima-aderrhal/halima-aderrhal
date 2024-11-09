@@ -40,11 +40,7 @@ From data preprocessing to model deployment, I handle the full data science life
 - ⚡ Fun fact: I analyze data even in my dreams!  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
