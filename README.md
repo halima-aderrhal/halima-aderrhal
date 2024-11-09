@@ -25,7 +25,7 @@ From data preprocessing to model deployment, I handle the full data science life
 
 
 ## Rapidfire  
-<table><tr> valign="top" width="100%">
+<table><tr valign="top" width="100%">
 
 - 🔭 I'm currently working on Data Science Projects
   
